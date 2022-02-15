@@ -1,0 +1,1273 @@
+﻿Log file open, 02/15/22 20:16:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ssssonic
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.243281
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Engine.ini]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Engine.ini]
+[2022.02.15-11.16.25:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Engine.ini]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Engine.ini]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.15-11.16.25:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Engine.ini]
+[2022.02.15-11.16.25:100][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Engine.ini]
+[2022.02.15-11.16.25:244][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.15-11.16.25:244][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:244][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.15-11.16.25:245][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.15-11.16.25:245][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.15-11.16.25:245][  0]LogHAL: Display: Platform has ~ 16 GB [17114873856 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.15-11.16.25:245][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.15-11.16.25:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.15-11.16.25:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Scalability.ini]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.15-11.16.25:246][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.15-11.16.25:247][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.15-11.16.25:247][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.15-11.16.25:247][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.15-11.16.25:247][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Engine.ini]
+[2022.02.15-11.16.25:247][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Config/Windows/Editor.ini]
+[2022.02.15-11.16.25:247][  0]LogInit: Computer: DESKTOP-BKPK4C6
+[2022.02.15-11.16.25:247][  0]LogInit: User: User
+[2022.02.15-11.16.25:247][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.15-11.16.25:247][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.15-11.16.25:247][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.02.15-11.16.25:247][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.15-11.16.25:247][  0]LogMemory: Process Physical Memory: 145.30 MB used, 145.30 MB peak
+[2022.02.15-11.16.25:247][  0]LogMemory: Process Virtual Memory: 128.21 MB used, 128.21 MB peak
+[2022.02.15-11.16.25:247][  0]LogMemory: Physical Memory: 6172.18 MB used,  10149.84 MB free, 16322.02 MB total
+[2022.02.15-11.16.25:247][  0]LogMemory: Virtual Memory: 134191632.00 MB used,  26099.37 MB free, 134217728.00 MB total
+[2022.02.15-11.16.25:259][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.15-11.16.25:381][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.15-11.16.25:382][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.02.15-11.16.25:382][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.02.15-11.16.25:611][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.15-11.16.25:660][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.15-11.16.25:681][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.15-11.16.25:681][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.15-11.16.25:982][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.15-11.16.25:986][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.15-11.16.25:986][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.15-11.16.25:986][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.15-11.16.25:987][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.15-11.16.26:081][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2022.02.15-11.16.26:081][  0]LogD3D11RHI:       8011/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070 SUPER
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     DeviceId    : 1e84
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     SubSysId    : 373e1462
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     DedicatedVideoMemory : 8400142336 bytes
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     SharedSystemMemory : 8557436928 bytes
+[2022.02.15-11.16.26:083][  0]LogD3D11RHI:     AdapterLuid : 0 49096
+[2022.02.15-11.16.26:087][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.15-11.16.26:087][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.15-11.16.26:087][  0]LogWindows: EnumDisplayDevices:
+[2022.02.15-11.16.26:088][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2022.02.15-11.16.26:089][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2022.02.15-11.16.26:089][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.02.15-11.16.26:090][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.02.15-11.16.26:091][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2022.02.15-11.16.26:091][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070 SUPER
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     DeviceId    : 1e84
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     SubSysId    : 373e1462
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     DedicatedVideoMemory : 8400142336 bytes
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     SharedSystemMemory : 8557436928 bytes
+[2022.02.15-11.16.26:091][  0]LogD3D11RHI:     AdapterLuid : 0 49096
+[2022.02.15-11.16.26:146][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.15-11.16.26:147][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.15-11.16.26:147][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.15-11.16.26:150][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2022.02.15-11.16.26:162][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.15-11.16.26:251][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.15-11.16.26:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.15-11.16.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.15-11.16.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.15-11.16.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.15-11.16.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.15-11.16.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.15-11.16.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.15-11.16.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.15-11.16.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.15-11.16.26:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.15-11.16.26:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.15-11.16.26:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.15-11.16.26:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.15-11.16.26:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.15-11.16.26:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.15-11.16.26:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.15-11.16.26:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.15-11.16.26:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.15-11.16.26:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.15-11.16.26:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.15-11.16.26:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.15-11.16.26:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.15-11.16.26:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.15-11.16.26:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.15-11.16.26:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.15-11.16.26:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.15-11.16.26:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.15-11.16.26:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.15-11.16.26:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.15-11.16.26:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.15-11.16.26:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.15-11.16.26:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.15-11.16.26:862][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.15-11.16.26:875][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.15-11.16.26:928][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.15-11.16.26:981][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.15-11.16.26:981][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Intermediate/Shaders/WorkingDirectory/26748/).
+[2022.02.15-11.16.26:981][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/E8DA942C4A934037337B319073EB36A8/'.
+[2022.02.15-11.16.26:981][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.15-11.16.26:981][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.15-11.16.26:981][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.15-11.16.27:748][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.15-11.16.27:807][  0]LogDerivedDataCache: Loaded boot cache 0.06s 110MB C:/Users/User/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.15-11.16.27:807][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.15-11.16.27:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.15-11.16.27:808][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.15-11.16.27:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.15-11.16.27:808][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.15-11.16.27:823][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.15-11.16.27:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.15-11.16.27:823][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.15-11.16.27:835][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.15-11.16.27:835][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=423.78MBs, RandomWriteSpeed=106.50MBs. Assigned SpeedClass 'Local'
+[2022.02.15-11.16.27:835][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.15-11.16.27:835][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.15-11.16.27:835][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.15-11.16.27:879][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.15-11.16.27:880][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.15-11.16.27:906][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2022.02.15-11.16.28:134][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.15-11.16.28:134][  0]LogInit: Active device profile: [000001F61CE9E800][000001F617285680 49] Windows
+[2022.02.15-11.16.28:134][  0]LogInit: Profiles: [000001F61CE9E800][000001F617285680 49] Windows, [000001F61CE59A00][000001F61728D800 49] WindowsNoEditor, [000001F61CE9DA00][000001F617291980 49] WindowsServer, [000001F61CE5A900][000001F617295B00 49] WindowsClient, [000001F61CE9EB00][000001F617298100 49] IOS, [000001F61CE59400][000001F61729C280 49] iPadAir, [000001F61CE9F300][000001F6172A0400 49] iPadAir2, [000001F61CDDF100][000001F6172A86C0 49] IPadPro, [000001F61CDDF200][000001F6172A4700 49] iPadAir3, [000001F61CE9E900][000001F6172AC880 49] iPadAir4, [000001F61CDDDF00][000001F6172B0A00 49] iPadMini2, [000001F61CE9E200][000001F617288B40 49] iPadMini3, [000001F61CDDDA00][000001F6172B4C80 49] iPadMini4, [000001F61CE9EC00][000001F6172B8DC0 49] iPadMini5, [000001F61CE26700][000001F61BDFD040 49] iPhone6, [000001F61CE26800][000001F61BDF5080 49] iPodTouch6, [000001F61CDDCF00][000001F61BE05340 49] iPhone7, [000001F61CDDCE00][000001F61BE01380 49] iPodTouch7, [000001F61CE25E00][000001F61BE09500 49] iPhone5S, [000001F61CDDF800][000001F61BE0D680 49] iPhone6Plus, [000001F61CE25A00][000001F61BE11800 49] iPhone6S, [000001F61CDDE300][000001F61BE2F980 49] iPhone6SPlus, [000001F61CE26900][000001F60FF15B00 49] iPhone7Plus, [000001F61CDDCB00][000001F60FF9A100 49] iPhoneSE, [000001F61CE25800][000001F61002C280 49] iPhone8, [000001F61CDDD800][000001F610030400 49] iPhone8Plus, [000001F61CE26500][000001F610034580 49] iPhoneX, [000001F61CDDE100][000001F610038700 49] iPhoneXS, [000001F61CE24500][000001F61C0AC880 49] iPhoneXSMax, [000001F61CDDFA00][000001F61C0B8A00 49] iPhoneXR, [000001F61CE27400][000001F61C0BCB80 49] iPhone11, [000001F61CDDC400][000001F61BE6AD00 49] iPhone11Pro, [000001F61CE24F00][000001F61BDF8E40 49] iPhone11ProMax, [000001F61CDDEA00][000001F61BE76F80 49] iPhoneSE2, [000001F61CE27800][000001F6160A70C0 49] iPhone12Mini, [000001F61CDDD900][000001F6160AF240 49] iPhone12, [000001F61CE26D00][000001F61BC753C0 49] iPhone12Pro, [000001F61CDDEB00][000001F61BC79540 49] iPhone12ProMax, [000001F61CE24200][000001F61BC7D6C0 49] iPadPro105, [000001F61CDDD100][000001F61BC81840 49] iPadPro129, [000001F61CE26100][000001F61BC859C0 49] iPadPro97, [000001F61CDDEC00][000001F61BC89B40 49] iPadPro2_129, [000001F61CE27000][000001F60FF96140 49] iPad5, [000001F61CDDD700][000001F61BC8C2C0 49] iPad6, [000001F61CE25F00][000001F61BC90440 49] iPad7, [000001F61CDDC800][000001F61BCA05C0 49] iPad8, [000001F61CE25C00][000001F61BCA4740 49] iPadPro11, [000001F61CEFCA00][000001F61BCA88C0 49] iPadPro2_11, [000001F61CE5B400][000001F61BCACA40 49] iPadPro3_129, [000001F61CEFC200][000001F6160B2BC0 49] iPadPro4_129, [000001F61CE5A400][000001F6160B6D40 49] AppleTV, [000001F61CEFD400][000001F6160F0EC0 49] AppleTV4K, [000001F61CE5BB00][000001F6160AB000 49] TVOS, [000001F61CEFCB00][000001F60FF9F140 49] Mac, [000001F61CE5A000][000001F60FFF7280 49] MacClient, [000001F61CEFCE00][000001F60FFFB3C0 49] MacNoEditor, [000001F61CE5BF00][000001F610003540 49] MacServer, [000001F61CEFC800][000001F6100076C0 49] Linux, [000001F61CE5B600][000001F61000B840 49] LinuxAArch64, [000001F61CEFD000][000001F61000F9C0 49] LinuxNoEditor, [000001F61CE58400][000001F610013B40 49] LinuxAArch64NoEditor, [000001F61CE24600][000001F61001A140 49] LinuxClient, [000001F61CDDDC00][000001F61001E2C0 49] LinuxAArch64Client, [000001F61CE26E00][000001F610022440 49] LinuxServer, [000001F61CDDFF00][000001F6100265C0 49] LinuxAArch64Server, [000001F61CE24800][000001F60F9CC740 49] Android, [000001F61CDDEF00][000001F60F9D48C0 49] Android_Low, [000001F61CE26300][000001F60F9D8A40 49] Android_Mid, [000001F61CDDFC00][000001F60F9DCBC0 49] Android_High, [000001F61CE25D00][000001F60F9E0D40 49] Android_Default, [000001F61CDDE600][000001F60F9E4EC0 49] Android_Adreno4xx, [000001F61CE25500][000001F61C051040 49] Android_Adreno5xx_Low, [000001F61CDDC300][000001F60FFFF180 49] Android_Adreno5xx, [000001F61CE27600][000001F61C0552C0 49] Android_Adreno6xx, [000001F61CDDD600][000001F61C059400 49] Android_Adreno6xx_Vulkan, [000001F61CE27700][000001F61C05D540 49] Android_Mali_T6xx, [000001F61CDDCC00][000001F61C0656C0 49] Android_Mali_T7xx, [000001F61CE24E00][000001F61C069840 49] Android_Mali_T8xx, [000001F61CDDED00][000001F61C06D9C0 49] Android_Mali_G71, [000001F61CE26C00][000001F61C071B40 49] Android_Mali_G72, [000001F61CDDD200][000001F61C074140 49] Android_Mali_G72_Vulkan, [000001F61CE25000][000001F61C0782C0 49] Android_Mali_G76, [000001F61CDDF400][000001F61C07C440 49] Android_Mali_G76_Vulkan, [000001F61CE25B00][000001F61C0805C0 49] Android_Mali_G77, [000001F61CDDF300][000001F61C084740 49] Android_Mali_G77_Vulkan, [000001F61CE27D00][000001F61C0888C0 49] Android_Mali_G78, [000001F61CDDC700][000001F61C08CA40 49] Android_Mali_G78_Vulkan, [000001F61CE27100][000001F61C090BC0 49] Android_Mali_G710, [000001F61CDDF900][000001F61C094D40 49] Android_Mali_G710_Vulkan, [000001F61CEFC400][000001F61C098EC0 49] Android_Vulkan_SM5, [000001F61CDDE400][000001F61C09D040 49] Android_PowerVR_G6xxx, [000001F61CE9E000][000001F61C0A11C0 49] Android_PowerVR_GT7xxx, [000001F61CE5AA00][000001F61C0A5340 49] Android_PowerVR_GE8xxx, [000001F61CE9E500][000001F61C061480 49] Android_PowerVR_GM9xxx, [000001F61CE5B200][000001F61C0A95C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001F61CE9D800][000001F616107700 49] Android_TegraK1, [000001F61CE59C00][000001F61610F880 49] Android_Unknown_Vulkan, [000001F61CE9DD00][000001F616113A00 49] Lumin, [000001F61CE5A700][000001F616117B80 49] Lumin_Desktop, [000001F61CE9FC00][000001F61611A180 49] HoloLens, 
+[2022.02.15-11.16.28:284][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.15-11.16.28:284][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.15-11.16.28:284][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.15-11.16.28:284][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.15-11.16.28:284][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.15-11.16.28:308][  0]LogNetVersion: ssssonic 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2000595579)
+[2022.02.15-11.16.28:718][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.15-11.16.28:773][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.15-11.16.28:778][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.15-11.16.28:778][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.15-11.16.28:778][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.15-11.16.29:180][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DE1655B847136002FB92D0BD4E355680 | Instance: 74381AA64BBCCA14EDB3B89FE8FFD769 (DESKTOP-BKPK4C6-26748).
+[2022.02.15-11.16.29:332][  0]LogPython: Using Python 3.7.7
+[2022.02.15-11.16.29:849][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.15-11.16.29:856][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.15-11.16.30:256][  0]SourceControl: Source control is disabled
+[2022.02.15-11.16.30:256][  0]SourceControl: Source control is disabled
+[2022.02.15-11.16.30:261][  0]SourceControl: Source control is disabled
+[2022.02.15-11.16.30:267][  0]SourceControl: Source control is disabled
+[2022.02.15-11.16.30:272][  0]SourceControl: Source control is disabled
+[2022.02.15-11.16.30:293][  0]LogUProjectInfo: Found projects:
+[2022.02.15-11.16.30:322][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.15-11.16.30:613][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.15-11.16.30:663][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.15-11.16.30:711][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.15-11.16.30:711][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.15-11.16.30:889][  0]LogCollectionManager: Loaded 0 collections in 0.001531 seconds
+[2022.02.15-11.16.30:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Saved/Collections/' took 0.00s
+[2022.02.15-11.16.30:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Content/Developers/User/Collections/' took 0.00s
+[2022.02.15-11.16.30:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Content/Collections/' took 0.00s
+[2022.02.15-11.16.30:923][  0]LogOcInput: OculusInput pre-init called
+[2022.02.15-11.16.31:210][  0]LogEngine: Initializing Engine...
+[2022.02.15-11.16.31:213][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.15-11.16.31:214][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.15-11.16.31:214][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.15-11.16.31:215][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.15-11.16.31:359][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.15-11.16.31:368][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.15-11.16.31:368][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.15-11.16.31:375][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.15-11.16.31:376][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.15-11.16.31:376][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.15-11.16.31:376][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.15-11.16.31:376][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.15-11.16.31:376][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.15-11.16.31:376][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.15-11.16.31:376][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.15-11.16.31:376][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.15-11.16.31:376][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.15-11.16.31:376][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.15-11.16.31:376][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.15-11.16.31:377][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.15-11.16.31:377][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.15-11.16.31:377][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.15-11.16.31:377][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.15-11.16.31:403][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.15-11.16.31:403][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.15-11.16.31:459][  0]LogAudioMixer: Display: Using Audio Device 스피커(Samsung Speaker )
+[2022.02.15-11.16.31:461][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.15-11.16.31:465][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.15-11.16.31:466][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.15-11.16.31:466][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.15-11.16.31:466][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.15-11.16.31:466][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.15-11.16.31:467][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.15-11.16.31:467][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.15-11.16.31:467][  0]LogInit: FAudioDevice initialized.
+[2022.02.15-11.16.31:468][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.15-11.16.31:468][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.15-11.16.31:528][  0]LogDerivedDataCache: Saved boot cache 0.06s 110MB C:/Users/User/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.15-11.16.31:528][  0]LogInit: Texture streaming: Enabled
+[2022.02.15-11.16.31:549][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.15-11.16.31:558][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.15-11.16.31:558][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.15-11.16.31:566][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.15-11.16.31:601][  0]LogInit: Transaction tracking system initialized
+[2022.02.15-11.16.31:636][  0]BlueprintLog: New page: Editor Load
+[2022.02.15-11.16.31:737][  0]LocalizationService: Localization service is disabled
+[2022.02.15-11.16.31:774][  0]TimingProfiler: Initialize
+[2022.02.15-11.16.31:775][  0]TimingProfiler: OnSessionChanged
+[2022.02.15-11.16.31:775][  0]LoadingProfiler: Initialize
+[2022.02.15-11.16.31:775][  0]LoadingProfiler: OnSessionChanged
+[2022.02.15-11.16.31:775][  0]NetworkingProfiler: Initialize
+[2022.02.15-11.16.31:775][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.15-11.16.31:775][  0]MemoryProfiler: Initialize
+[2022.02.15-11.16.31:775][  0]MemoryProfiler: OnSessionChanged
+[2022.02.15-11.16.31:982][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.15-11.16.31:982][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.15-11.16.32:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Content/' took 0.06s
+[2022.02.15-11.16.32:548][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.15-11.16.32:557][  0]SourceControl: Source control is disabled
+[2022.02.15-11.16.32:557][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.910
+[2022.02.15-11.16.32:557][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Content/thirdperson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.15-11.16.32:558][  0]LightingResults: New page: Lighting Build
+[2022.02.15-11.16.32:559][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.15-11.16.32:559][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.15-11.16.32:559][  0]MapCheck: New page: Map Check
+[2022.02.15-11.16.32:559][  0]LightingResults: New page: Lighting Build
+[2022.02.15-11.16.32:563][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.15-11.16.32:566][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.15-11.16.33:545][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/Effects/Textures/Cube/CaveMap_Interior_Cube.CaveMap_Interior_Cube', its maximum texture size has been explicitly set to 512.
+[2022.02.15-11.16.33:713][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/AncientTreasures/Textures/Utility/TX_Cube_01a_CUBE.TX_Cube_01a_CUBE', its maximum texture size has been explicitly set to 512.
+[2022.02.15-11.16.35:100][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'thirdperson'.
+[2022.02.15-11.16.35:102][  0]LogAIModule: Creating AISystem for world thirdperson
+[2022.02.15-11.16.35:480][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.15-11.16.35:613][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.15-11.16.35:614][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.15-11.16.35:614][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.283ms to complete.
+[2022.02.15-11.16.35:614][  0]LogFileHelpers: Loading map 'thirdperson' took 3.057
+[2022.02.15-11.16.35:616][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.968
+[2022.02.15-11.16.35:741][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.15-11.16.35:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.15-11.16.35:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.15-11.16.35:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.15-11.16.35:778][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3994 classes and 966 folders.
+[2022.02.15-11.16.35:782][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.15-11.16.35:784][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.15-11.16.35:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.15-11.16.35:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.15-11.16.35:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.02.15-11.16.35:785][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.15-11.16.35:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.15-11.16.35:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.15-11.16.35:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.15-11.16.35:786][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.15-11.16.35:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.15-11.16.35:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.15-11.16.35:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.15-11.16.35:787][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.15-11.16.35:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.15-11.16.35:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.15-11.16.35:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.15-11.16.35:788][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.15-11.16.35:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.15-11.16.35:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.15-11.16.35:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.15-11.16.35:789][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.15-11.16.35:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.15-11.16.35:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.15-11.16.35:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.02.15-11.16.35:790][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.15-11.16.35:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.15-11.16.35:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.15-11.16.35:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.02.15-11.16.35:791][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.15-11.16.35:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.15-11.16.35:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.15-11.16.35:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.15-11.16.35:792][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.15-11.16.35:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.15-11.16.35:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.15-11.16.35:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.15-11.16.35:792][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.15-11.16.35:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.15-11.16.35:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.15-11.16.35:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.15-11.16.35:793][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.15-11.16.35:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.15-11.16.35:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.15-11.16.35:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.15-11.16.35:794][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.15-11.16.35:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.15-11.16.35:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.15-11.16.35:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.02.15-11.16.35:795][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.15-11.16.35:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.15-11.16.35:795][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:795][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.15-11.16.35:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.02.15-11.16.35:796][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.15-11.16.35:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.15-11.16.35:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.15-11.16.35:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.02.15-11.16.35:797][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.15-11.16.35:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.15-11.16.35:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.15-11.16.35:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.02.15-11.16.35:798][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.15-11.16.35:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.15-11.16.35:799][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:799][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.15-11.16.35:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.15-11.16.35:799][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.15-11.16.35:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.15-11.16.35:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.15-11.16.35:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.15-11.16.35:800][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.15-11.16.35:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.15-11.16.35:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.15-11.16.35:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.15-11.16.35:801][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.15-11.16.35:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.15-11.16.35:801][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:801][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.15-11.16.35:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.15-11.16.35:802][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.15-11.16.35:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.15-11.16.35:802][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:802][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.15-11.16.35:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.15-11.16.35:803][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.15-11.16.35:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.15-11.16.35:803][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:803][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.15-11.16.35:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.15-11.16.35:804][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.15-11.16.35:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.15-11.16.35:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.15-11.16.35:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.15-11.16.35:805][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.15-11.16.35:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.15-11.16.35:805][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.15-11.16.35:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.15-11.16.35:806][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.15-11.16.35:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.15-11.16.35:807][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:807][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.15-11.16.35:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.15-11.16.35:807][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.15-11.16.35:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.15-11.16.35:807][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:807][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.15-11.16.35:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.15-11.16.35:808][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.15-11.16.35:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.15-11.16.35:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.15-11.16.35:808][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.15-11.16.35:808][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.15-11.16.35:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.02.15-11.16.35:896][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.15-11.16.35:897][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.02.15-11.16.36:139][  0]LogSlate: Took 0.000526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.15-11.16.36:140][  0]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.15-11.16.36:141][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.15-11.16.36:273][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.02.15-11.16.36:562][  0]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.15-11.16.36:697][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.15-11.16.36:697][  0]LogLoad: (Engine Initialization) Total time: 13.05 seconds
+[2022.02.15-11.16.36:697][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.15-11.16.36:780][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.15-11.16.36:798][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/User/OneDrive/바탕 화면/winter_project/ssssonic/ssssonic/Content/' took 0.08s
+[2022.02.15-11.16.36:820][  1]LogAssetRegistry: Asset discovery search completed in 8.9156 seconds
+[2022.02.15-11.16.36:827][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.02.15-11.17.06:720][401]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.15-11.17.06:784][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.02.15-11.17.10:821][401]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.15-11.17.14:527][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Grass  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Dirt  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Dirt Rocks  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Stone  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Wood  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Water  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Beach  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Grass  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Dirt  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Dirt Rocks  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:528][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Stone  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:529][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Wood  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:529][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Water  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:529][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Beach  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:532][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:532][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:532][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:533][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:534][785]LogBlueprint: Error: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2022.02.15-11.17.14:534][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Grass  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Dirt  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Dirt Rocks  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Stone  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Wood  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Water  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Beach  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Grass  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Dirt  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Dirt Rocks  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Stone  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Wood  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:535][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Water  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:536][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Meshes\Male\Meshes\SKL_Male_SwordMan_AnimBlueprint.uasset: [Compiler] Input pin  Beach  specifying non-default value no longer exists on node  Select . Please refresh node or reset pin to default value to remove pin.
+[2022.02.15-11.17.14:539][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] InputAction Event references unknown Action 'Attack' for  InputAction Attack
+[2022.02.15-11.17.14:539][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2022.02.15-11.17.14:540][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.02.15-11.17.14:540][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.02.15-11.17.14:540][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.02.15-11.17.14:540][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.02.15-11.17.14:540][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.02.15-11.17.14:541][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.02.15-11.17.14:541][785]LogBlueprint: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Blueprints\BP_StylizedSwordman.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.02.15-11.17.17:203][922]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape-Main)
+[2022.02.15-11.17.19:853][164]LogEditorViewport: Clicking on Actor (LMB): BP_StylizedSwordman_C (BP_StylizedSwordman)
+[2022.02.15-11.17.21:237][262]Cmd: DELETE
+[2022.02.15-11.17.21:237][262]Cmd: ACTOR DELETE
+[2022.02.15-11.17.21:282][262]LogEditorActor: Deleted Actor: BP_StylizedSwordman_C
+[2022.02.15-11.17.21:302][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.02.15-11.17.21:309][262]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2022.02.15-11.17.23:616][527]LogSlate: Took 0.001072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.15-11.17.23:630][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StylizedSwordman/Blueprints/BP_StylizedSwordman.BP_StylizedSwordman
+[2022.02.15-11.17.23:869][527]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.02.15-11.17.24:772][527]LogSlate: Took 0.000734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.15-11.17.24:852][527]LogSlate: Took 0.000706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.15-11.17.24:882][528]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.15-11.17.28:049][735]LogSlate: Window 'BP_StylizedSwordman' being destroyed
+[2022.02.15-11.17.28:062][735]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.15-11.17.28:063][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.15-11.17.30:952][ 41]LogSlate: Took 0.004141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.02.15-11.17.37:071][680]LogTexture: Display: Building textures: T_Sword_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.02.15-11.17.37:071][680]LogTexture: Display: Building textures: T_Sword_N (OODLE_BC5, 2048X2048)
+[2022.02.15-11.17.37:071][680]LogTexture: Display: Building textures: T_Sword_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.15-11.17.37:071][680]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.15-11.17.37:071][680]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.15-11.17.37:071][680]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.15-11.17.37:071][680]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.15-11.17.37:071][680]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.15-11.17.37:071][680]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.15-11.17.37:072][680]LogSkeletalMesh: Building Skeletal Mesh SK_Sword...
+[2022.02.15-11.17.37:077][680]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/StylizedSwordman/Characters/Meshes/Weapons/SK_Sword.SK_Sword
+[2022.02.15-11.17.37:976][765]Cmd: DELETE
+[2022.02.15-11.17.37:976][765]Cmd: ACTOR DELETE
+[2022.02.15-11.17.38:012][765]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.02.15-11.17.38:037][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.02.15-11.17.38:043][765]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.02.15-11.17.51:989][219]Cmd: DELETE
+[2022.02.15-11.17.51:989][219]Cmd: ACTOR DELETE
+[2022.02.15-11.17.52:026][219]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.02.15-11.17.52:044][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.15-11.17.52:049][219]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.02.15-11.17.52:704][281]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/StylizedSwordman/Characters/Meshes/Male/Meshes/SKL_Male_SwordMan_AnimBlueprint.SKL_Male_SwordMan_AnimBlueprint
+[2022.02.15-11.17.52:720][281]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.02.15-11.17.52:730][281]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.15-11.17.52:809][281]LogSkeletalMesh: Building Skeletal Mesh SK_MaleHair001...
+[2022.02.15-11.17.52:809][281]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StylizedSwordman/Characters/Meshes/Male/Hairs/SK_MaleHair001.SK_MaleHair001
+[2022.02.15-11.17.52:813][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.15-11.17.52:818][281]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.02.15-11.17.53:873][281]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.15-11.18.00:563][716]LogSlate: Window 'SKL_Male_SwordMan_AnimBlueprint' being destroyed
+[2022.02.15-11.18.00:579][716]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.02.15-11.18.00:579][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.15-11.18.00:588][716]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.15-11.18.00:588][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.15-11.18.00:659][716]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.02.15-11.18.00:659][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.15-11.18.06:325][328]LogMaterial: Display: Missing cached shadermap for M_Bottle in PCD3D_SM5, Default, SM5 (DDC key hash: F1F79A04C6AADBD7721E4D979206F07B2CCE090B), compiling. 
+[2022.02.15-11.18.06:437][328]LogShaderCompilers: Display: Submitted 76 shader compile jobs with 'Low' priority
+[2022.02.15-11.18.06:443][328]LogMaterial: Display: Missing cached shadermap for M_Liquid in PCD3D_SM5, Default, SM5 (DDC key hash: DFA835FFC130B4F9269F71F09A10F62FDDEDE4AE), compiling. 
+[2022.02.15-11.18.06:491][328]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 66
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 56
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Started 76 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.06:492][328]LogShaderCompilers: Display: Submitted 80 shader compile jobs with 'Low' priority
+[2022.02.15-11.18.06:609][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.02.15-11.18.09:876][328]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 80
+[2022.02.15-11.18.09:876][328]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.10:218][328]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.15-11.18.10:334][328]LogUObjectGlobals: Force Deleting 59 Package(s):
+	Asset Name: /Game/StylizedSwordman/Characters/Meshes/Male/Meshes/SK_Male_SwordMan.SK_Male_SwordMan
+	Asset Name: /Game/StylizedSwordman/Characters/Meshes/Male/Meshes/PHY_Male_SwordManSwing.PHY_Male_SwordManSwing
+	Asset Name: /Game/StylizedSwordman/Characters/Materials/Instance/MI_MaleHead.MI_MaleHead
+	Asset Name: /Game/StylizedSwordman/Characters/Textures/Male/T_MaleHead_ORM.T_MaleHead_ORM
+	Asset Name: /Game/StylizedSwordman/Characters/Textures/Male/T_MaleHead_N.T_MaleHead_N
+	Asset Name: /Game/StylizedSwordman/Characters/Textures/Male/T_MaleHead_D.T_MaleHead_D
+	Asset Name: /Game/StylizedSwordman/Characters/Materials/Master/M_Head.M_Head
+	Asset Name: /Game/StylizedSwordman/Characters/Textures/Female/T_Head_V2_D.T_Head_V2_D
+	Asset Name: /Game/StylizedSwordman/Characters/Textures/Female/T_Head_ORM.T_Head_ORM
+	Asset Name: /Game/StylizedSwordman/Characters/Textures/Female/T_Head_N.T_Head_N
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 70
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 61
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 46
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2022.02.15-11.18.14:345][328]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.14:651][328]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2022.02.15-11.18.14:651][328]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.02.15-11.18.15:195][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:196][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:196][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:199][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:200][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:200][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:202][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:203][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:203][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:205][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:206][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:206][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:208][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:209][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:209][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:211][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:212][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:212][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:215][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:216][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:216][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:218][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:218][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:218][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:221][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:222][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:222][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:225][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:226][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:226][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:228][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:229][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:229][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:231][328]LogMaterial: Display: Missing cached shadermap for M_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC8A273337F6F7940D3A9C6688D7642B0B6A50C), compiling. 
+[2022.02.15-11.18.15:232][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Head.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:232][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:241][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:242][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:242][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:242][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:246][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:246][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:246][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:246][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:249][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:250][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:250][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:250][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:254][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:255][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:255][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:255][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:258][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:258][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:258][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:259][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:260][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:261][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:261][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:261][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:264][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:265][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:265][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:265][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:268][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:269][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:269][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:270][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:273][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:274][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:274][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:274][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:278][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:278][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:279][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:279][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:281][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:282][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:282][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:282][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:286][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:286][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:286][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:286][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:289][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:290][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:290][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:290][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:294][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:294][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:294][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:294][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:297][328]LogMaterial: Display: Missing cached shadermap for M_Armor in PCD3D_SM5, Default, SM5 (DDC key hash: C7820C56EBBB003B59CF7C9E5C521F3562628BE0), compiling. 
+[2022.02.15-11.18.15:297][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_Armor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:297][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:297][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:390][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:391][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:391][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:391][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:394][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:394][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:394][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:394][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:399][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:400][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:400][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:400][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:404][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:405][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:405][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:405][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:407][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:408][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:408][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:408][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:412][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:413][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:413][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:413][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:416][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:417][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:417][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:417][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:420][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:422][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:422][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:422][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:425][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:425][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:425][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:425][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:429][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:430][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:430][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:430][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:434][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:435][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:435][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:435][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:438][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:439][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:439][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:439][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:442][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:443][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:443][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:443][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:446][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:447][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:447][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:447][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:451][328]LogMaterial: Display: Missing cached shadermap for M_MaleHair in PCD3D_SM5, Default, SM5 (DDC key hash: 07B0C4B1901B6D5FF5F3937AE7085D37BD0488E0), compiling. 
+[2022.02.15-11.18.15:452][328]LogMaterial: Warning: [AssetLog] C:\Users\User\OneDrive\바탕 화면\winter_project\ssssonic\ssssonic\Content\StylizedSwordman\Characters\Materials\Master\M_MaleHair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.15-11.18.15:452][328]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.15-11.18.15:452][328]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.15-11.18.15:483][328]LogSkeletalMesh: Building Skeletal Mesh SK_MaleHair005...
+[2022.02.15-11.18.15:485][328]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StylizedSwordman/Characters/Meshes/Male/Hairs/SK_MaleHair005.SK_MaleHair005
+[2022.02.15-11.18.15:501][328]LogSkeletalMesh: Building Skeletal Mesh SK_Male_SwordMan...
+[2022.02.15-11.18.15:549][328]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/StylizedSwordman/Characters/Meshes/Male/Meshes/SK_Male_SwordMan.SK_Male_SwordMan
+[2022.02.15-11.18.15:691][328]LogSkeletalMesh: Building Skeletal Mesh SK_MaleHair001...
+[2022.02.15-11.18.15:693][328]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StylizedSwordman/Characters/Meshes/Male/Hairs/SK_MaleHair001.SK_MaleHair001
+[2022.02.15-11.18.15:742][328]LogSkeletalMesh: Building Skeletal Mesh SK_Sword...
+[2022.02.15-11.18.15:743][328]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StylizedSwordman/Characters/Meshes/Weapons/SK_Sword.SK_Sword
+[2022.02.15-11.18.15:919][328]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2022.02.15-11.18.16:278][328]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.15-11.18.16:505][328]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.227 s
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: 
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3143]
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: 
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: Stack: 
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffce78de819 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffce71a520b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffce68eb269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffce6bd0dde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffce6bc7e97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee1ea6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee20280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee05421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee0ce104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee0b7097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:505][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee0a9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a6c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a592b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a6e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a54410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd2944e858 USER32.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd2944e299 USER32.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a6fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee0d865a UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee076b09 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffce6c63e9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffce7198de2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcd84dc618 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcbdd92d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcbdd92f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcbdd823a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcd9ec1af3 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcd9ebaf42 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcd9f3b6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcd9ebea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee1ea6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee20280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee05421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee0ce104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee0b7097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffcee0a9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a6c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a592b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a6e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a54410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd2944e858 USER32.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd2944e299 USER32.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd03a6fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ff75b007621 UE4Editor.exe!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ff75b020fcc UE4Editor.exe!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ff75b0210ba UE4Editor.exe!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ff75b0240dd UE4Editor.exe!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ff75b035984 UE4Editor.exe!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ff75b03853a UE4Editor.exe!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd283a7034 KERNEL32.DLL!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: [Callstack] 0x00007ffd2a222651 ntdll.dll!UnknownFunction []
+[2022.02.15-11.18.16:506][328]LogOutputDevice: Error: 
